@@ -62,3 +62,7 @@ body{
 .buttons button:nth-last-child(1){
   background-color: #BEE4CF;
 }
+
+.buttons button:hover {
+    background-color: white;
+}
