@@ -65,5 +65,4 @@ body{
 }
 .buttons button:hover {
     background-color: white;
-    transition: background 0.5s ease-in-out;
 }
