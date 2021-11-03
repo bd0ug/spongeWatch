@@ -55,7 +55,7 @@ body{
     cursor: pointer;
     outline: none;
     border: outset black;
-    transition: background 0.2s ease-in-out;
+    transition: background 0.4s ease-in-out;
 }
 .buttons button:nth-last-child(2){
   background-color: #FEF552;
