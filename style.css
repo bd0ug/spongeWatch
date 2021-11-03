@@ -55,6 +55,7 @@ body{
     cursor: pointer;
     outline: none;
     border: outset black;
+    transition: background 0.2s ease-in-out;
 }
 .buttons button:nth-last-child(2){
   background-color: #FEF552;
@@ -62,7 +63,7 @@ body{
 .buttons button:nth-last-child(1){
   background-color: #BEE4CF;
 }
-
 .buttons button:hover {
     background-color: white;
+    transition: background 0.5s ease-in-out;
 }
